@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1765222803 source:z:\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1765898902 source:z:\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Avatar.h"
+	"Ennemi.h"
+
+1765222803 source:z:\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765222803 source:z:\z fichiers\1 projets\s102 jeux vidéo\archive\s102 code ancienne version 2\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1765288485 source:z:\z fichiers\1 projets\s102 jeux vidéo\archive\s102 code ancienne version 2\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+
+1765222803 source:z:\z fichiers\1 projets\s102 jeux vidéo\archive\s102 code ancienne version 2\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1765895532 source:z:\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\personnage.cpp
+	"Personnage.h"
+
+1765898902 source:z:\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\avatar.cpp
+	"Avatar.h"
+
+1765897603 source:z:\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\ennemi.cpp
+	"Ennemi.h"
+
+1762415364 source:c:\users\mauga\desktop\s102 code\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1762414956 source:c:\users\mauga\desktop\s102 code\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1767779926 source:c:\users\mauga\desktop\s102 code\src\avatar.cpp
+	"Avatar.h"
+
+1767774486 source:c:\users\mauga\desktop\s102 code\src\ennemi.cpp
+	"Ennemi.h"
+
+1768235740 source:c:\users\mauga\desktop\s102 code\src\personnage.cpp
+	"Personnage.h"
+
+1768237583 source:c:\users\mauga\desktop\s102 code\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Avatar.h"
+	"Ennemi.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+
+1767374698 source:c:\users\mauga\documents\5 autre\nextcloud iut\z_sidious\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\avatar.cpp
+	"Avatar.h"
+
+1767374698 source:c:\users\mauga\documents\5 autre\nextcloud iut\z_sidious\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\ennemi.cpp
+	"Ennemi.h"
+
+1762415364 source:c:\users\mauga\documents\5 autre\nextcloud iut\z_sidious\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1767375071 source:c:\users\mauga\documents\5 autre\nextcloud iut\z_sidious\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Avatar.h"
+	"Ennemi.h"
+
+1762414956 source:c:\users\mauga\documents\5 autre\nextcloud iut\z_sidious\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1767374698 source:c:\users\mauga\documents\5 autre\nextcloud iut\z_sidious\z fichiers\1 projets\s102 jeux vidéo\s102 code\src\personnage.cpp
+	"Personnage.h"
+
+1768237666 source:c:\users\mauga\desktop\s102 code\src\tuile.cpp
+	"Tuile.h"
+	<iostream>
+
+1768236774 source:c:\users\mauga\desktop\s102 code\src\objet.cpp
+	<iostream>
+	"Objet.h"
+	"Moteur.h"
+
+1768234451 source:c:\users\mauga\desktop\s102 code\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<fstream>
+	<iostream>
+
+1768237052 source:c:\users\mauga\desktop\s102 code\src\niveau.cpp
+	"Niveau.h"
+	<fstream>
+	<iostream>
+
